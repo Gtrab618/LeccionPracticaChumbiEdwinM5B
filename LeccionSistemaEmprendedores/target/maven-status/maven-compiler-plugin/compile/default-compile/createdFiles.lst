@@ -1,0 +1,11 @@
+com\tendencias\m5b\proyectousarios\service\ServicioRolImpl.class
+com\tendencias\m5b\proyectousarios\service\ServicioUsuarioImpl.class
+com\tendencias\m5b\proyectousarios\service\ServicioGenericoImpl.class
+com\tendencias\m5b\proyectousarios\service\ServicioGenerico.class
+com\tendencias\m5b\proyectousarios\repository\RolRepositorio.class
+com\tendencias\m5b\proyectousarios\ProyectousariosApplication.class
+com\tendencias\m5b\proyectousarios\model\Rol.class
+com\tendencias\m5b\proyectousarios\controller\RolController.class
+com\tendencias\m5b\proyectousarios\model\Usuario.class
+com\tendencias\m5b\proyectousarios\repository\UsuarioRepositorio.class
+com\tendencias\m5b\proyectousarios\controller\UsuarioController.class
